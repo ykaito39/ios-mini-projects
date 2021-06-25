@@ -1,1 +1,2 @@
-iOS mini projects
+# iOS mini projects 
+M1 Macbook Air買ったからやってみた 
